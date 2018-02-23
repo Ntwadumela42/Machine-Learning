@@ -10,3 +10,6 @@ Naive Bayes:
 
 SVM:  Support Vector Machine
 
+
+
+Neural Networks:
